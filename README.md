@@ -1,1 +1,4 @@
 # Gr2_SIOT_Core_Lib_Web_Wifi
+**Wi-Fi có hai chế độ hoạt động chính: Station (Client) và Access Point (AP). Dưới đây là mô tả của hai chế độ này:
+Chế độ Station (Client): Chế độ Station cho phép thiết bị kết nối và truy cập vào mạng Wi-Fi. Đây là chế độ phổ biến được sử dụng trên các thiết bị như laptop, điện thoại di động, máy tính bảng và các thiết bị thông minh khác. Trong chế độ này, thiết bị Station hoạt động như một khách hàng, kết nối đến một Access Point (AP) đã tồn tại để truy cập vào mạng Wi-Fi và kết nối với các thiết bị khác trên mạng.
+Chế độ Access Point (AP): Chế độ Access Point chuyển thiết bị trở thành một điểm phát Wi-Fi, cho phép các thiết bị khác kết nối và truy cập vào mạng Wi-Fi. Trong chế độ này, thiết bị Access Point hoạt động như một trung tâm phát sóng Wi-Fi, tạo ra một mạng không dây và cho phép các thiết bị khác kết nối vào mạng này để truy cập internet hoặc tương tác với nhau qua mạng nội bộ.
